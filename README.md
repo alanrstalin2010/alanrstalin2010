@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<marquee> 👋 Hi, I'm Alan R Stalin </marquee>
+ <font size ="5"><marquee> 👋 Hi, I'm Alan R Stalin </marquee></font>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Problem+Solver;Always+Learning+New+Things" />
