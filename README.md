@@ -27,7 +27,7 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/alan-r-stalin-308b2b371/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
