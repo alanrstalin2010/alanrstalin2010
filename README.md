@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-  <h6>👋 Hi, I'm Alan R Stalin </h6>
-
+ <h1 align="center">👋 Hi, I'm Alan R Stalin</h1>
+<h3 align="center">Software Engineering Student</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Problem+Solver;Always+Learning+New+Things" />
 </p>
